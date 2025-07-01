@@ -26,7 +26,7 @@ opens a new Figure window.
 ## Now Task ##
 1. File created - data_analyzer.py
 2. Our CSV sales file info
- - Columns - Region, Country, Item Type, Sales Channel, Order Priority, Order Date, Order ID, Ship Date, Unit Sold, Unit Price, Unit Cost, Total Revenue, Total Cost, Total Profit
+ - Columns - Region, Country, Item Type, Sales Channel, Order Priority, Order Date, Order ID, Ship Date, Units Sold, Unit Price, Unit Cost, Total Revenue, Total Cost, Total Profit
 3. Read CSV
 4. Group by - Region
 5. Find Sum - Total Revenue
